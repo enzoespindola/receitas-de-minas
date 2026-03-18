@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #fff8e1; /* leve cor de fundo tipo Minas */
+    color: #111111;
+    padding: 20px;
+}
+
+section img {
+    display: block;   /* transforma a imagem em bloco */
+    margin: 0 auto;   /* centraliza horizontalmente */
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+
+section button {
+    display: block;
+    margin: 20px auto;
+}
+
